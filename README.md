@@ -1,0 +1,1 @@
+Starting new Journey with JavaScript.
